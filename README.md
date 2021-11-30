@@ -1,2 +1,2 @@
-# PRO-C157-COMICS-WORLD-STAGE-1
-Includes the best of Archie's, Superman, Spiderman, and Captain America!
+# PRO157
+Includes the best of wonderwomen's, Superman, Spiderman, and Captain America!
